@@ -1,0 +1,13 @@
+{
+  "name": "superx-showreel",
+  "private": true,
+  "type": "module",
+  "scripts": { "render": "node render.mjs" },
+  "dependencies": {
+    "@fontsource/inter": "^5.0.0",
+    "@fontsource/jetbrains-mono": "^5.0.0",
+    "@fontsource/space-grotesk": "^5.0.0",
+    "@napi-rs/canvas": "^0.1.0",
+    "ffmpeg-static": "^5.2.0"
+  }
+}
